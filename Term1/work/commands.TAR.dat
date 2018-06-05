@@ -1,0 +1,59 @@
+
+# Before you begin, you should issue something like :
+# cp ../examples/1ARJ.short.pdb ./last.1.pdb
+
+# Instantiate the RNA :
+RNA  N 17       GGCAGAUCUGAGCCUGGGAGCUCUCUGCC
+
+# Alternatively, we could have gotten the sequence and residue numbering from the input PDB file, with:
+# loadSequencesFromPdb
+
+# We don't want to move the system center of mass to the global origin in this case, nor do we want to enforce zero overall momenta. So set:
+removeRigidBodyMomentum False
+
+constrainToGround N 17
+
+# Specify rigid segments:
+mobilizer Rigid       N 17 21
+mobilizer Rigid       N 27 38
+mobilizer Rigid       N 41 45
+
+# To prevent the discontinuous domain from splitting:
+constraint      N 17 Weld  N 45
+
+#constraintTolerance .001
+
+# Collision-detecting spheres will prevent some steric clashes, at very low computational cost:
+contact SelectedAtoms N FirstResidue LastResidue
+# An alternative to this is the AllHeavyAtomSterics scheme, which puts collision-detecting spheres on all atoms except Hydrogen:
+# contact AllHeavyAtomSterics N FirstResidue LastResidue
+# Another (much more expensive) alternative is to turn on the MD force field. However note that in the absence of counterions, the domains will try to spread apart:
+# setDefaultMDParameters
+
+numReportingIntervals  200
+reportingInterval 2.0 
+firstStage 2
+lastStage 2
+
+temperature   10.0  
+
+# Many of these have no effect when the above mobilizer and constraint commands are active :
+
+baseInteraction N 26 WatsonCrick N 39 WatsonCrick Cis
+baseInteraction N 27 WatsonCrick N 38 WatsonCrick Cis
+baseInteraction N 28 WatsonCrick N 37 WatsonCrick Cis
+baseInteraction N 29 WatsonCrick N 36 WatsonCrick Cis
+
+baseInteraction N 17 WatsonCrick N 45 WatsonCrick Cis
+baseInteraction N 18 WatsonCrick N 44 WatsonCrick Cis
+baseInteraction N 19 WatsonCrick N 43 WatsonCrick Cis
+baseInteraction N 20 WatsonCrick N 42 WatsonCrick Cis
+baseInteraction N 21 WatsonCrick N 41 WatsonCrick Cis
+baseInteraction N 22 WatsonCrick N 40 WatsonCrick Cis
+
+# Alternatively, you can use:
+# nucleicAcidDuplex N 26 29 N 39 36
+# nucleicAcidDuplex N 17 22 N 45 40
+
+
+

@@ -1,0 +1,65 @@
+1. What kind of information does a phylogenetic tree illustrate?
+
+The phylogenetic tree shows the evolutionary relationships between different biological species. This relationship can be called phylogeny and is referring to the similarities and differences in their physical or genetic characteristics.
+
+2. What is the difference, in terms of the information displayed, between rooted and unrooted trees?
+
+In contrast to rooted trees, unrooted trees only show the relatedness of the nodes and do not show ancestal roots. Rooted trees additionally can illustrate time estimation for evolutionary relationships.
+
+3. Use the UPGMA method together with the Hamming distance to build the phylogenetic tree for the following DNA sequences: ACTT, AGGG, GATT, TGGG. Show every step you performed when building the tree. What is one of the main disadvantages of this method?
+
+
+
+4. Which mouse has the largest evolutionary distance to the common ancestor (tree root)?
+
+The grey mouse has with the value "10" the biggest distance between the sequences.
+
+5. In terms of ordinary time, which mouse diverged first, the grey one or the purple one?
+
+The purple one originated before, since in a additional matrix the values add to another and the tree leading to the purple one is 6+3 equals 9, which is lower than the value of 10 of the tree leading to the grey mouse.
+
+6. Use one of the methods shown in the previous lab to align the sequences and construct an evolutionary tree. Create and submit a print screen image of the multiple sequence alignment and the phylogenetic tree.
+
+File
+
+7. Which three species sequences are the most related to the dinosaur sequence according to your phylogenetic tree?
+
+Rabbit, Orang_pseudogene, gibbon_pseudogene
+
+8. What can you conclude from your observations, in terms of biology and evolution?
+
+One can conclude, that the dino had the same ancestors than the Orang utan and the gibbon. Nevertheless, both animals mentioned before probably had some kind of genetic modification, which allowed them to adapt to environmental changes in time.
+
+9. What do you think is a protein domain?
+
+A protein domain is a part of a protein, which is conserved and is zoned out from other parts of the protein, because of functional and structural folding structure, which are different from the other parts of the proteins.
+
+10. What do you think is a protein fold?
+
+A protein fold is a process in which a protein chain transforms from its 2-dimensional chain to a 3-dimensional conformation. This conformation is usually biologically functional.
+
+11. What procedure does Pfam use to create sequence families and to add new members to existing families? What do you think is the role of HMM profiles in this process?
+
+To create a new family PFAM is performing a high-quality seed alignment of a representative subset of sequences. Then, a profile hidden Markov model is produced by using HMMER. Taken the HMM profile, one then can search sequences from databases and compare them. Given a previously set threshold, all hits obtained are then classified is members of the new sequence family. The role of the HMM is that of a profile, with which members of the given sequence family can be identified/classified.
+
+12. Find the entry "PLCG1_BOVIN" in the Uniprot (SwissProt) database. Get its peptide sequence and search it using the Pfam Search utility. How many non-overlapping Pfam-A domains does it have? Include a screen shot of the Pfam predictions for this protein in your report.
+
+Pfam found 6 non-overlapping domain matches.
+file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

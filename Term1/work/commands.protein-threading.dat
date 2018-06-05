@@ -1,0 +1,49 @@
+
+firstStage   2  
+lastStage    2  
+
+reportingInterval .10
+numReportingIntervals   50
+
+temperature 1.0  
+removeRigidBodyMomentum false
+
+# beetle TERT template:
+protein E 94                                                                                 CYDYDAIPWLQNVEPNLRPKLLLKHNLFLLDNIVKPIIAFYYKPIKTLNGHEIKFIRKEEYIS 
+
+#  threaded human TERT fragment sequence
+protein H 522                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            RSPGVGCVPAAEHRLREEILAKFHWLMSVYVVELLRSFFYVTETTFQKNRLFFYRKSV 
+
+
+# providing no residue numbers rigidifies the entire chain E:
+mobilizer Rigid E   
+
+# By now you should know what "FirstResidue" means. Anyway, fix this to ground:
+constrainToGround E FirstResidue
+
+# Let MMB do the alignment for you with SeqAn. Note we are NOT specifying noGap.  That means we ALLOW gaps in our alignment.
+
+alignmentForces forceConstant 3000
+
+# Note we do not have to explicitly specify the residues. MMB will find a gapped alignment.  
+
+alignmentForces H E
+
+# It is your responsibility to check the alignment! That means looking for something like this in the command output:
+# 
+#../src/AtomSpringContainer.cpp:388  thread.gapPenalty = -1
+#Score: -51
+#      0     .    :    .    :    .    :    .    :    .    : 
+#        --RSPGVGCVPAAEHRLREEILAKFLHWL-MSVYVVELLRSFFYVTETTF
+#                     |  ||   | |  | |      |     | |    | 
+#        CYDYDAIPWLQNVEPNLRPKLLLK--HNLFLLDNIVKPIIAFYYKPIKTL
+#
+#     50     .    :    . 
+#        QKNRLFFYRK---SV
+#              | ||     
+#        NGHEIKFIRKEEYIS
+
+# In this case let's use collision detecting spheres to prevent steric clashes. In a prior exercise we used MD forces, and you are welcome to try that here as well.
+contact  AllAtomSterics H  FirstResidue LastResidue
+
+

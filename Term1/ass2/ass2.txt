@@ -1,0 +1,61 @@
+1. What is the difference between blastn and blastp?
+
+blastn - database of nucleotide sequences
+blastp - database of protein sequences
+
+2. Which blastall flag would you use to specify the blast program (e.g. blastp)?
+
+blastall -p
+
+3. What does the e-value stand for and which e-values are better and which are worse?
+
+e-value - Except value
+Its the value describing the number of hits by chance one can expect by searching a specific database. Since it is exponentially decreasing as the match increases, the lower E-value one has the better.
+
+4. What is the best hit you obtain? You can just copy paste the line from the Blast output.
+
+UniRef90_P19174 1-phosphatidylinositol 4,5-bisphosphate phosphod...  2580   
+
+5. How many hits did you find at e-values less than or equal to 10?
+
+28167
+
+6. Name one advantage and one disadvantage when using dotplots to detect evolutionary relationships between sequences.
+
+advantage: it finds the best possible alignment between two sequences
+disadvantage: it only shows 100% matches between (similar) amino acids
+
+7. What is the alignment corresponding to the path illustrated in the following dotplot?
+
+B I O I N F A B O O K
+| |         | |     |
+B I N D S - A B A N K
+
+8. What is the Hamming distance between the sequences TGGGC and TAGGC?
+
+1
+
+9. What kind of information does a BLOSUM matrix describe?
+
+It describes the score for an alignment between evolutionarily divergent protein sequences.
+
+10. Why do you think it is necessary to use  substitution matrices when scoring an alignment?
+
+One can use it to find the score between two amino acids in two sequence
+
+11. Using a BLOSUM matrix, which subsitution is more probable: F<->Y or H<->R?
+
+F <-> Y     score 3     more probalbe, since 3 is higher than 0
+H <-> R     score 0
+
+12. What are the total substitution scores of the alignments? (Hint: sum the scores from the BLOSUM62 matrix)
+                                13. gap penalty
+X1G: VMMMVIH--F     total: 28       A. -4   B. -5
+Y1G: VM--VIHWHY
+
+X2G: VMMMVIHF--     total: 22       B. -21  B. -21,5
+Y2G: ---MVIHWHY
+
+13. A. I calculated -1 for every gap opening and added -1 more for each gap which was added
+    B. I calculated -10 for every gap opening and added -0,5 more for each gap which was added
+

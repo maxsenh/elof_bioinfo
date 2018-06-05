@@ -1,0 +1,434 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+sp|Q8K2J0|PLCD3_MOUSE      MLCGGWKRSR----------------------------------RSPEES
+sp|Q8N3E9|PLCD3_HUMAN      MLCGRWRRCR----------------------------------RPPEEP
+sp|A2AP18|PLCH2_MOUSE      MGGLAWGPSRAAGSSWVNASGTWEQPLRGFSGLQGGRRRGRGEKGIPEEP
+sp|O75038|PLCH2_HUMAN      MSG-----------------------------------------------
+sp|Q4KWH5|PLCH1_MOUSE      MADLE---------------------------------------------
+sp|Q4KWH8|PLCH1_HUMAN      MADLE---------------------------------------------
+P08487|PLCG1_BOVIN         MAGAAS--------------------------------------------
+                           *                                                 
+
+sp|Q8K2J0|PLCD3_MOUSE      RV----SAQVAAPLAFP----------PSPA-SSDSSTKR----------
+sp|Q8N3E9|PLCD3_HUMAN      PVAAQVAAQVAAPVALP----------SPPT-PSDGGTKR----------
+sp|A2AP18|PLCH2_MOUSE      L--CQLTPQLGLSLRVPFGLGDYGLDMPGPQ-PSAASQTTGAVACLAEVL
+sp|O75038|PLCH2_HUMAN      -----------------------------PW-PSPDSRTKGTVAWLAEVL
+sp|Q4KWH5|PLCH1_MOUSE      --------------------------------------------------
+sp|Q4KWH8|PLCH1_HUMAN      --------------------------------------------------
+P08487|PLCG1_BOVIN         --------------------------------PCANG-------------
+                                                                             
+
+sp|Q8K2J0|PLCD3_MOUSE      ------PGLRALKKMGL--------------------------------T
+sp|Q8N3E9|PLCD3_HUMAN      ------PGLRALKKMGL--------------------------------T
+sp|A2AP18|PLCH2_MOUSE      LWVGGSVVVSPRWQLSL--------------------------------V
+sp|O75038|PLCH2_HUMAN      LWVGGSVVLSSEWQLGP--------------------------------L
+sp|Q4KWH5|PLCH1_MOUSE      ----------VYKNLSPE-------------------------------K
+sp|Q4KWH8|PLCH1_HUMAN      ----------VYKNLSPE-------------------------------K
+P08487|PLCG1_BOVIN         --------CGPSAPSDA-------------------------------EV
+                                          .                                  
+
+sp|Q8K2J0|PLCD3_MOUSE      EDEDVQAMLRGSRLLKI--RSRTWHKERLYRLQEDGLSVWFQRRIPRAAS
+sp|Q8N3E9|PLCD3_HUMAN      EDEDVRAMLRGSRLRKI--RSRTWHKERLYRLQEDGLSVWFQRRIPRAPS
+sp|A2AP18|PLCH2_MOUSE      VERCMSAMQEGTQMVKL--RGSSKGLVRFYYLDEHRSCL--RWRPSRKNE
+sp|O75038|PLCH2_HUMAN      VERCMGAMQEGMQMVKL--RGGSKGLVRFYYLDEHRSCI--RWRPSRKNE
+sp|Q4KWH5|PLCH1_MOUSE      VERCMSVMQSGTQMIKL--KRGTKGLVRLFYLDEHRTRL--RWRPSRKSE
+sp|Q4KWH8|PLCH1_HUMAN      VERCMSVMQSGTQMIKL--KRGTKGLVRLFYLDEHRTRL--RWRPSRKSE
+P08487|PLCG1_BOVIN         VHLCRS-LEVGTVMTLFYSKKSQRPERKTFQVKLETRQI--TWSRGADKI
+                            .     :  *  :  :  :       : : :. .   :           
+
+sp|Q8K2J0|PLCD3_MOUSE      KHIFFVQHIEAVREGHQSEGLRRF-G-GAFAP--ACCLTIAFKG--RRKN
+sp|Q8N3E9|PLCD3_HUMAN      QHIFFVQHIEAVREGHQSEGLRRF-G-GAFAP--ARCLTIAFKG--RRKN
+sp|A2AP18|PLCH2_MOUSE      KAKISIDSIQEVSEGRQSEIFQRYPD-SSFDP--NCCFSIYHGS--HRES
+sp|O75038|PLCH2_HUMAN      KAKISIDSIQEVSEGRQSEVFQRYPD-GSFDP--NCCFSIYHGS--HRES
+sp|Q4KWH5|PLCH1_MOUSE      KAKILIDSIYKVTEGRQSEIFHRQAE-GNFDP--SCCFTIYHGN--HMES
+sp|Q4KWH8|PLCH1_HUMAN      KAKILIDSIYKVTEGRQSEIFHRQAE-GNFDP--SCCFTIYHGN--HMES
+P08487|PLCG1_BOVIN         EGAIDIREIKEIRPGKTSRDFDRYQEDPAFRPDQSHCFVILYGMEFRLKT
+                           :  : :  *  :  *: *. : *      * *    *: * .    : :.
+
+sp|Q8K2J0|PLCD3_MOUSE      LDLAAPTAEEAQRWVRGLAKLRARL---DAMSQRER-LDHWIHSYLHRAD
+sp|Q8N3E9|PLCD3_HUMAN      LDLAAPTAEEAQRWVRGLTKLRARL---DAMSQRER-LDHWIHSYLHRAD
+sp|A2AP18|PLCH2_MOUSE      LDLVSPSSEEARTWVTGLRYLMAGISDEDSLARRQRTRDQWLKQTFDEAD
+sp|O75038|PLCH2_HUMAN      LDLVSTSSEVARTWVTGLRYLMAGISDEDSLARRQRTRDQWLKQTFDEAD
+sp|Q4KWH5|PLCH1_MOUSE      LDLITSNPEEARTWITGLKYLMAGISDEDSLAKRQRTHDQWVKQTFEEAD
+sp|Q4KWH8|PLCH1_HUMAN      LDLITSNPEEARTWITGLKYLMAGISDEDSLAKRQRTHDQWVKQTFEEAD
+P08487|PLCG1_BOVIN         LSLQATSEDEVNMWIRGLTWLMEDT---LQAATPLQ-IERWLRKQFYSVD
+                           *.* :.. : .. *: **  *          :   :  ::*::. :  .*
+
+sp|Q8K2J0|PLCD3_MOUSE      SDQDSKMSFKEIKSLLRMVNVDMNDMYAYRLFKECDHSNNE-RLEGAEIE
+sp|Q8N3E9|PLCD3_HUMAN      SNQDSKMSFKEIKSLLRMVNVDMNDMYAYLLFKECDHSNND-RLEGAEIE
+sp|A2AP18|PLCH2_MOUSE      KNGDGSLSISEVLQLLHKLNVNLPRQRVKQMFREADTDDHQGTLGFEEFC
+sp|O75038|PLCH2_HUMAN      KNGDGSLSIGEVLQLLHKLNVNLPRQRVKQMFREADTDDHQGTLGFEEFC
+sp|Q4KWH5|PLCH1_MOUSE      KNGDGLLNIEEIHQLMHKLNVNLPRRKVRQMFQEADTDENQGTLTFEEFC
+sp|Q4KWH8|PLCH1_HUMAN      KNGDGLLNIEEIHQLMHKLNVNLPRRKVRQMFQEADTDENQGTLTFEEFC
+P08487|PLCG1_BOVIN         RNREDRISAKDLKNMLSQVNYRVPNMRFLRE-RLTDLEQRTSDITYGQFA
+                            : :. :.  :: .::  :*  :         :  * .:.   :   :: 
+
+sp|Q8K2J0|PLCD3_MOUSE      AFLRR--LLKRPELEEIFRRYSGED-------RVLSASELLEFLE-DQGE
+sp|Q8N3E9|PLCD3_HUMAN      EFLRR--LLKRPELEEIFHQYSGED-------RVLSAPELLEFLE-DQGE
+sp|A2AP18|PLCH2_MOUSE      AFYKM--MSTRRDLYLLMLTYSNHK-------DHLDASDLQRFLEVEQKM
+sp|O75038|PLCH2_HUMAN      AFYKM--MSTRRDLYLLMLTYSNHK-------DHLDAASLQRFLQVEQKM
+sp|Q4KWH5|PLCH1_MOUSE      VFYKM--MSLRRDLYLLLLSYSDKK-------DHLTVEELAQFLKVEQKM
+sp|Q4KWH8|PLCH1_HUMAN      VFYKM--MSLRRDLYLLLLSYSDKK-------DHLTVEELAQFLKVEQKM
+P08487|PLCG1_BOVIN         QLYRSLMYSAQKTMDLPFLEASALRAGERPELCRVSLPEFQQFLLEYQGE
+                            : :      :  :   :   *            :   .: .**   *  
+
+sp|Q8K2J0|PLCD3_MOUSE      D-GATLACAQQLIQTYELNETAK-QHELMTLDGFMMYLLSPEGAALNVAH
+sp|Q8N3E9|PLCD3_HUMAN      E-GATLARAQQLIQTYELNETAK-QHELMTLDGFMMYLLSPEGAALDNTH
+sp|A2AP18|PLCH2_MOUSE      N-GVTLESCQNIIEQFEPCLENK-SKGMLGIDGFTNYTRSPAGDIFNPEH
+sp|O75038|PLCH2_HUMAN      A-GVTLESCQDIIEQFEPCPENK-SKGLLGIDGFTNYTRSPAGDIFNPEH
+sp|Q4KWH5|PLCH1_MOUSE      S-NVTLDYCLDIIMKFEVSEENK-VKNVLGIEGFTNFMRSPACDVFNPLH
+sp|Q4KWH8|PLCH1_HUMAN      N-NVTTDYCLDIIKKFEVSEENK-VKNVLGIEGFTNFMRSPACDIFNPLH
+P08487|PLCG1_BOVIN         LWAVDRLQVQEFMLSFLRDPLREIEEPYFFLDEFVTFLFSKENSIWNSQL
+                              .      :::  :      :  .  : :: *  :  *      :   
+
+sp|Q8K2J0|PLCD3_MOUSE      TCVFQD-MGQPLAHYFISSSHNTYLTDSQIGGTSSTEAYIRAFAQGCRCV
+sp|Q8N3E9|PLCD3_HUMAN      TCVFQD-MNQPLAHYFISSSHNTYLTDSQIGGPSSTEAYVRAFAQGCRCV
+sp|A2AP18|PLCH2_MOUSE      NRVHQD-MTQPLSHYFITSSHNTYLVGDQLMSQSRVDMYAWVLQAGCRCV
+sp|O75038|PLCH2_HUMAN      HHVHQD-MTQPLSHYFITSSHNTYLVGDQLMSQSRVDMYAWVLQAGCRCV
+sp|Q4KWH5|PLCH1_MOUSE      HEVYQD-MDQPLCNYYIASSHNTYLTGDQLLSQSKVDMYARVLQEGCRCV
+sp|Q4KWH8|PLCH1_HUMAN      HEVYQD-MDQPLCNYYIASSHNTYLTGDQLLSQSKVDMYARVLQEGCRCV
+P08487|PLCG1_BOVIN         DEVCPDTMNNPLSHYWISSSHNTYLTGDQFSSESSLEAYARCLRMGCRCI
+                             *  * * :**.:*:*:*******...*: . *  : *   :  ****:
+
+sp|Q8K2J0|PLCD3_MOUSE      ELDCWEGPGGEPVIYHGHTLTSKILFRDVIQAVRDHAFTSSPYPVILSLE
+sp|Q8N3E9|PLCD3_HUMAN      ELDCWEGPGGEPVIYHGHTLTSKILFRDVVQAVRDHAFTLSPYPVILSLE
+sp|A2AP18|PLCH2_MOUSE      EVDCWDGPDGEPIVHHGYTLTSKILFKDVIETINKYAFIKNEYPVILSIE
+sp|O75038|PLCH2_HUMAN      EVDCWDGPDGEPIVHHGYTLTSKILFKDVIETINKYAFIKNEYPVILSIE
+sp|Q4KWH5|PLCH1_MOUSE      EVDCWDGPDGEPVVHHGYTLTSKILFRDVVETINKHAFVKNEFPVILSIE
+sp|Q4KWH8|PLCH1_HUMAN      EVDCWDGPDGEPVVHHGYTLTSKILFRDVVETINKHAFVKNEFPVILSIE
+P08487|PLCG1_BOVIN         ELDCWDGPDGMPVIYHGHTLTTKIKFSDVLHTIKEHAFVASEYPVILSIE
+                           *:***:**.* *:::**:***:** * **:.::..:**  . :*****:*
+
+sp|Q8K2J0|PLCD3_MOUSE      NHCGLEQQAVMARHLRSILGDMLVTQALDSQNPEELPSPEQLKGRILVKG
+sp|Q8N3E9|PLCD3_HUMAN      NHCGLEQQAAMARHLCTILGDMLVTQALDSPNPEELPSPEQLKGRVLVKG
+sp|A2AP18|PLCH2_MOUSE      NHCSVVQQKKMAQYLTDILGDKLDLSSVSSEDATMLPSPQMLKGKILVKG
+sp|O75038|PLCH2_HUMAN      NHCSVIQQKKMAQYLTDILGDKLDLSSVSSEDATTLPSPQMLKGKILVKG
+sp|Q4KWH5|PLCH1_MOUSE      NHCSIQQQRKIAQYLKGILQDKLDLSSVDTGECRQLPSPQSLKGKILVKG
+sp|Q4KWH8|PLCH1_HUMAN      NHCSIQQQRKIAQYLKGIFGDKLDLSSVDTGECKQLPSPQSLKGKILVKG
+P08487|PLCG1_BOVIN         DHCSIAQQRNMAQYFKKVLGDTLLTKPVDIA-ADGLPSPNQLKRKILIKH
+                           :**.: **  :*:::  :: * *  ..:.      ****: ** ::*:* 
+
+sp|Q8K2J0|PLCD3_MOUSE      KKLPAARSEDGRI-------------------------------------
+sp|Q8N3E9|PLCD3_HUMAN      KKLPAARSEDGRA-------------------------------------
+sp|A2AP18|PLCH2_MOUSE      KKLPANISEDAEE-------------------------------------
+sp|O75038|PLCH2_HUMAN      KKLPANISEDAEE-------------------------------------
+sp|Q4KWH5|PLCH1_MOUSE      KKLPYHLGDDAEE-------------------------------------
+sp|Q4KWH8|PLCH1_HUMAN      KKLPYHLGDDAEE-------------------------------------
+P08487|PLCG1_BOVIN         KKLAEGSAYEEVPTSVMYSENDISNSIKNGILYLEDPVNHEWYPHYFVLT
+                           ***.   . :                                        
+
+sp|Q8K2J0|PLCD3_MOUSE      -----LSDREEE---EEEEEEAE---------------------------
+sp|Q8N3E9|PLCD3_HUMAN      -----LSDREEE---EEDDEEEE---------------------------
+sp|A2AP18|PLCH2_MOUSE      ---GEVSDEDSA---DEMEDDCKL-LNGDASTNRKRVENIAKKKLD----
+sp|O75038|PLCH2_HUMAN      ---GEVSDEDSA---DEIDDDCKL-LNGDASTNRKRVENTAKRKLD----
+sp|Q4KWH5|PLCH1_MOUSE      ---GEVSDEDSA---DEIEDECKFKLHYSNGTTEHQVESFIRKKLE----
+sp|Q4KWH8|PLCH1_HUMAN      ---GEVSDEDSA---DEIEDECKFKLHYSNGTTEHQVESFIRKKLE----
+P08487|PLCG1_BOVIN         SSKIYYSEETSSDQGNEDEEEPK---EASGSTELHSNEKWFHGKLGAGRD
+                                 *:. .    :* ::: :                           
+
+sp|Q8K2J0|PLCD3_MOUSE      --------------------------------------------------
+sp|Q8N3E9|PLCD3_HUMAN      --------------------------------------------------
+sp|A2AP18|PLCH2_MOUSE      ------SLIKE----------------S----------------------
+sp|O75038|PLCH2_HUMAN      ------SLIKE----------------S----------------------
+sp|Q4KWH5|PLCH1_MOUSE      ------SLLKE----------------S----------------------
+sp|Q4KWH8|PLCH1_HUMAN      ------SLLKE----------------S----------------------
+P08487|PLCG1_BOVIN         GRHIAERLLTEYCIETGAPDGSFLVRESETFVGDYTLSFWRNGKVQHCRI
+                                                                             
+
+sp|Q8K2J0|PLCD3_MOUSE      --------------------------------------------------
+sp|Q8N3E9|PLCD3_HUMAN      --------------------------------------------------
+sp|A2AP18|PLCH2_MOUSE      --------------------------------------------------
+sp|O75038|PLCH2_HUMAN      --------------------------------------------------
+sp|Q4KWH5|PLCH1_MOUSE      --------------------------------------------------
+sp|Q4KWH8|PLCH1_HUMAN      --------------------------------------------------
+P08487|PLCG1_BOVIN         HSRQDAGTPKFFLTDNLVFDSLYDLITHYQQVPLRCNEFEMRLSEPVPQT
+                                                                             
+
+sp|Q8K2J0|PLCD3_MOUSE      --------------------------------------------------
+sp|Q8N3E9|PLCD3_HUMAN      --------------------------------------------------
+sp|A2AP18|PLCH2_MOUSE      -------------------------------KIRDCEDPNDFSVSTLSPS
+sp|O75038|PLCH2_HUMAN      -------------------------------KIRDCEDPNNFSVSTLSPS
+sp|Q4KWH5|PLCH1_MOUSE      -------------------------------QIRDKEDPDSFTVRALLKA
+sp|Q4KWH8|PLCH1_HUMAN      -------------------------------QIRDKEDPDSFTVRALLKA
+P08487|PLCG1_BOVIN         NAHESKEWYHASLTRAQAEHMLMRVPRDGAFLVRKRNEPNSYAISFRA-E
+                                                                             
+
+sp|Q8K2J0|PLCD3_MOUSE      --------------------------------------------------
+sp|Q8N3E9|PLCD3_HUMAN      --------------------------------------------------
+sp|A2AP18|PLCH2_MOUSE      GKLGRKAEAKKG--------------------------------------
+sp|O75038|PLCH2_HUMAN      GKLGRKSK------------------------------------------
+sp|Q4KWH5|PLCH1_MOUSE      THEGLNAH------------------------------------------
+sp|Q4KWH8|PLCH1_HUMAN      THEGLNAH------------------------------------------
+P08487|PLCG1_BOVIN         GKIKHCRVQQEGQTVMLGNSEFDSLVDLISYYEKHPLYRKMKLRYPINEE
+                                                                             
+
+sp|Q8K2J0|PLCD3_MOUSE      --------------------------------------------------
+sp|Q8N3E9|PLCD3_HUMAN      --------------------------------------------------
+sp|A2AP18|PLCH2_MOUSE      --------------------------------------------------
+sp|O75038|PLCH2_HUMAN      --------------------------------------------------
+sp|Q4KWH5|PLCH1_MOUSE      --------------------------------------------------
+sp|Q4KWH8|PLCH1_HUMAN      --------------------------------------------------
+P08487|PLCG1_BOVIN         ALEKIGTAEPDYGALYEGRNPGFYVEANPMPTFKCAVKALFDYKAQREDE
+                                                                             
+
+sp|Q8K2J0|PLCD3_MOUSE      ---------------EA---------------------------------
+sp|Q8N3E9|PLCD3_HUMAN      ---------------EE---------------------------------
+sp|A2AP18|PLCH2_MOUSE      ----QSKVEEDVEAGEDS--------------------------------
+sp|O75038|PLCH2_HUMAN      -------AEEDVESGEDA--------------------------------
+sp|Q4KWH5|PLCH1_MOUSE      -------LKQNLDVKES---------------------------------
+sp|Q4KWH8|PLCH1_HUMAN      -------LKQSPDVKES---------------------------------
+P08487|PLCG1_BOVIN         LTFTKSAIIQNVEKQEGGWWRG-----------------DYGGKKQLWFP
+                                          *                                  
+
+sp|Q8K2J0|PLCD3_MOUSE      --------------------------------------------------
+sp|Q8N3E9|PLCD3_HUMAN      --------------------------------------------------
+sp|A2AP18|PLCH2_MOUSE      --------------------------GVSRQNSRLFMSSFSKRKKKGSK-
+sp|O75038|PLCH2_HUMAN      --------------------------GASRRNGRLVVGSFSRRKKKGSK-
+sp|Q4KWH5|PLCH1_MOUSE      --------------------------G-KKSHGRSLMANFGKHKQKATKS
+sp|Q4KWH8|PLCH1_HUMAN      --------------------------G-KKSHGRSLMTNFGKHKKT-TKS
+P08487|PLCG1_BOVIN         SNYVEEMVSPAALEPEREHLDENSPLGDLLRGVLDVPACQIAVRPEGKNN
+                                                                             
+
+sp|Q8K2J0|PLCD3_MOUSE      ----------------------------------------LEAAEQRS--
+sp|Q8N3E9|PLCD3_HUMAN      ----------------------------------------VEAAAQRR--
+sp|A2AP18|PLCH2_MOUSE      IKKVASVEEG-----------------DETLDSPG---SQSRGTARQK--
+sp|O75038|PLCH2_HUMAN      LKKAASVEEG-----------------DEGQDSPG---GQSRGATRQK--
+sp|Q4KWH5|PLCH1_MOUSE      RSKSYSTDDE-----------------DDSLQNPGKEGGQLYRLGRRR--
+sp|Q4KWH8|PLCH1_HUMAN      RSKSYSTDDE-----------------EDTQQSTGKEGGQLYRLGRRR--
+P08487|PLCG1_BOVIN         RLFVFSISMASVAHW---SLDVAADSQEELQDWVKKIREVAQTADARL--
+                                                                         :   
+
+sp|Q8K2J0|PLCD3_MOUSE      -----------RAKQISPELSALAVYCCATRLRTLDPSPGPPQSCTVGSL
+sp|Q8N3E9|PLCD3_HUMAN      -----------LAKQISPELSALAVYCHATRLRTLHPAPNAPQPCQVSSL
+sp|A2AP18|PLCH2_MOUSE      -----------KTMKLSRALSDLVKYTKSVGTH--DVEIEVVSSWQVSSF
+sp|O75038|PLCH2_HUMAN      -----------KTMKLSRALSDLVKYTKSVATH--DIEMEAASSWQVSSF
+sp|Q4KWH5|PLCH1_MOUSE      -----------RTMKLCRELSDLVVYTNSVAAQ--DIV-DDGTTGNVLSF
+sp|Q4KWH8|PLCH1_HUMAN      -----------KTMKLCRELSDLVVYTNSVAAQ--DIV-DDGTTGNVLSF
+P08487|PLCG1_BOVIN         ----TEGKMMERRKKIALELSELVVYCRPVPFDEEKIGTERACYRDMSSF
+                                         ::.  ** *. *  ..     .          : *:
+
+sp|Q8K2J0|PLCD3_MOUSE      SERKARKFTR-EAGTSFVRHNTQQLTRVYPLGLRMNSANYNPQEMWNSGC
+sp|Q8N3E9|PLCD3_HUMAN      SERKAKKLIR-EAGNSFVRHNARQLTRVYPLGLRMNSANYSPQEMWNSGC
+sp|A2AP18|PLCH2_MOUSE      SETKAHQILQ-QKPTQYLRFNQHQLSRIYPSSYRVDSSNYNPQPFWNAGC
+sp|O75038|PLCH2_HUMAN      SETKAHQILQ-QKPAQYLRFNQQQLSRIYPSSYRVDSSNYNPQPFWNAGC
+sp|Q4KWH5|PLCH1_MOUSE      SETRAHQVVQ-QKSEQFMIYNQKQLTRIYPSAYRIDSSNFNPLPYWNAGC
+sp|Q4KWH8|PLCH1_HUMAN      SETRAHQVVQ-QKSEQFMIYNQKQLTRIYPSAYRIDSSNFNPLPYWNAGC
+P08487|PLCG1_BOVIN         PETKAEKYVNKAKGKKFLQYNRLQLSRIYPKGQRLDSSNYDPLPMWICGS
+                           .* :*.:  .     .:: .*  **:*:** . *::*:*:.*   * .*.
+
+sp|Q8K2J0|PLCD3_MOUSE      QLVALNFQTPGYEMDLNTGRFLINGQCGYVLKPAYLRQLNTTFDP----E
+sp|Q8N3E9|PLCD3_HUMAN      QLVALNFQTPGYEMDLNAGRFLVNGQCGYVLKPACLRQPDSTFDP----E
+sp|A2AP18|PLCH2_MOUSE      QMVALNYQSEGRMLQLNRAKFSANGDCGYVLKPQCMCQ--GVFNPNSEDP
+sp|O75038|PLCH2_HUMAN      QMVALNYQSEGRMLQLNRAKFSANGGCGYVLKPGCMCQ--GVFNPNSEDP
+sp|Q4KWH5|PLCH1_MOUSE      QLVALNYQSEGRMMQINRAKFKANGNCGYILKPQQMCK--GTFNPFSGDP
+sp|Q4KWH8|PLCH1_HUMAN      QLVALNYQSEGRMMQLNRAKFKANGNCGYVLKPQQMCK--GTFNPFSGDP
+P08487|PLCG1_BOVIN         QLVALNFQTPDKPMQMNQALFLAGGHCGYVLQPSVMRD--EAFDPFDKSS
+                           *:****:*: .  :::* . *  .* ***:*:*  : .   .*:*     
+
+sp|Q8K2J0|PLCD3_MOUSE      CPGPPRTTLAIQVLTAQQLPKLNAE---KPSSIVDPLVRVEIHGVPEDCA
+sp|Q8N3E9|PLCD3_HUMAN      YPGPPRTTLSIQVLTAQQLPKLNAE---KPHSIVDPLVRIEIHGVPADCA
+sp|A2AP18|PLCH2_MOUSE      LPGQLKKQLALRIISGQQLPKPRDSVLGDRGEIIDPFVEVEVIGLPVDCS
+sp|O75038|PLCH2_HUMAN      LPGQLKKQLVLRIISGQQLPKPRDSMLGDRGEIIDPFVEVEIIGLPVDCS
+sp|Q4KWH5|PLCH1_MOUSE      LPANPKKQLILKVISGQQLPKPPDSMFGDRGEIIDPFVEVEIIGLPVDCC
+sp|Q4KWH8|PLCH1_HUMAN      LPANPKKQLILKVISGQQLPKPPDSMFGDRGEIIDPFVEVEIIGLPVDCC
+P08487|PLCG1_BOVIN         LRGLEPCAICIEVLGARHLPKNG-------RGIVCPFVEIEVAGAEYDSI
+                             .     : :.:: .::***           *: *:*.:*: *   *. 
+
+sp|Q8K2J0|PLCD3_MOUSE      QKETDYVLNNGFNPCWE-QTLQFRLRAPELVLVRFVVEDYDTTSPNDFVG
+sp|Q8N3E9|PLCD3_HUMAN      RQETDYVLNNGFNPRWG-QTLQFQLRAPELALVRFVVEDYDATSPNDFVG
+sp|A2AP18|PLCH2_MOUSE      KEQTRVVDDNGFNPMWE-ETLVFTVHMPEIALVRFLVWDHDPIG-RDFIG
+sp|O75038|PLCH2_HUMAN      REQTRVVDDNGFNPTWE-ETLVFMVHMPEIALVRFLVWDHDPIG-RDFIG
+sp|Q4KWH5|PLCH1_MOUSE      KDQTRVVDDNGFNPVWE-ETLTFTVHMPEIALVRFLVWDHDPIG-RDFVG
+sp|Q4KWH8|PLCH1_HUMAN      KDQTRVVDDNGFNPVWE-ETLTFTVHMPEIALVRFLVWDHDPIG-RDFVG
+P08487|PLCG1_BOVIN         KQKTEFVVDNGLNPVWPAKPFHFQISNPEFAFLRFVVYEEDMFSDQNFLA
+                           :.:*  * :**:** *  :.: * :  **:.::**:* : *  . .:*:.
+
+sp|Q8K2J0|PLCD3_MOUSE      QSTLPLSSLKQGYRHIHLLSKDGASLAPATLFVHIRI-------------
+sp|Q8N3E9|PLCD3_HUMAN      QFTLPLSSLKQGYRHIHLLSKDGASLSPATLFIQIRI-------------
+sp|A2AP18|PLCH2_MOUSE      QRTLAFSSIMPGYRHVYLEG-----MEEASIFVHVAVSDISGK-------
+sp|O75038|PLCH2_HUMAN      QRTLAFSSMMPGYRHVYLEG-----MEEASIFVHVAVSDISGK-------
+sp|Q4KWH5|PLCH1_MOUSE      QRTVTFSSLVPGYRHVYLEG-----LTEASIFVHITINEIFGKWSPLILN
+sp|Q4KWH8|PLCH1_HUMAN      QRTVTFSSLVPGYRHVYLEG-----LTEASIFVHITINEIYGKWSPLILN
+P08487|PLCG1_BOVIN         QATFPVKGLKTGYRAVPLKNNYSEGLELASLLVKIDVFPA----------
+                           * *.....:  *** : * .     :  *:::::: :             
+
+sp|Q8K2J0|PLCD3_MOUSE      --------------------------------------------------
+sp|Q8N3E9|PLCD3_HUMAN      --------------------------------------------------
+sp|A2AP18|PLCH2_MOUSE      -------------VKQTLGLKGLFLRGTKPGSLDSHAAGQPLPRPSVSQR
+sp|O75038|PLCH2_HUMAN      -------------VKQALGLKGLFLRGPKPGSLDSHAAGRPPARPSVSQR
+sp|Q4KWH5|PLCH1_MOUSE      PSYTILHFLGATKNRQLQGLKGLFNKNPRHASSENN--SHYVRKRSIGDR
+sp|Q4KWH8|PLCH1_HUMAN      PSYTILHFLGATKNRQLQGLKGLFNKNPRHSSSENN--SHYVRKRSIGDR
+P08487|PLCG1_BOVIN         --------------------------------------------------
+                                                                             
+
+sp|Q8K2J0|PLCD3_MOUSE      --------------------------------------------------
+sp|Q8N3E9|PLCD3_HUMAN      --------------------------------------------------
+sp|A2AP18|PLCH2_MOUSE      LLRRTASAPTKSQKPSRKGFPELALGTQDAGSEGAADDV-----------
+sp|O75038|PLCH2_HUMAN      ILRRTASAPTKSQKPGRRGFPELVLGTRDTGSKGVADDV-----------
+sp|Q4KWH5|PLCH1_MOUSE      ILRRTASAPAKGRKKSKVGFQEMV-EIKDSVSEASRDQDGVLRRTTRSLQ
+sp|Q4KWH8|PLCH1_HUMAN      ILRRTASAPAKGRKKSKMGFQEMV-EIKDSVSEATRDQDGVLRRTTRSLQ
+P08487|PLCG1_BOVIN         --------------------------------------------------
+                                                                             
+
+sp|Q8K2J0|PLCD3_MOUSE      --------------------------------------------------
+sp|Q8N3E9|PLCD3_HUMAN      --------------------------------------------------
+sp|A2AP18|PLCH2_MOUSE      -------------------------------------------------A
+sp|O75038|PLCH2_HUMAN      -------------------------------------------------V
+sp|Q4KWH5|PLCH1_MOUSE      VRPVSMPVDKSLLGALSLPISEAAKDTDGKENCLAGDKDDRRKGAATRKD
+sp|Q4KWH8|PLCH1_HUMAN      ARPVSMPVDRNLLGALSLPVSETAKDIEGKENSLAEDKDGRRKGKASIKD
+P08487|PLCG1_BOVIN         --------------------------------------------------
+                                                                             
+
+sp|Q8K2J0|PLCD3_MOUSE      --------------------------------------------------
+sp|Q8N3E9|PLCD3_HUMAN      --------------------------------------------------
+sp|A2AP18|PLCH2_MOUSE      P----------------------SSPNPA---LEAPTQERSGSSSPRDTR
+sp|O75038|PLCH2_HUMAN      P----------------------PGPGPA---PEAPAQEGPGSGSPRDTR
+sp|Q4KWH5|PLCH1_MOUSE      PHFSNFNKKLSSSSSALLHKDANQGPTAS-----VSNPEQCGGRGAKSER
+sp|Q4KWH8|PLCH1_HUMAN      PHFLNFNKKLSSSSSALLHKDTSQGDTIVSTAHMSVTGEQLGMSSPRGGR
+P08487|PLCG1_BOVIN         -------------------------------------KQENGDLSPFGGA
+                                                                             
+
+sp|Q8K2J0|PLCD3_MOUSE      --------------------------------------------------
+sp|Q8N3E9|PLCD3_HUMAN      --------------------------------------------------
+sp|A2AP18|PLCH2_MOUSE      LFPLQ--------RPISPLCSLEPIAEEPALGPGLP-LQA----------
+sp|O75038|PLCH2_HUMAN      PLSTQ--------RPLPPLCSLETIAEEPAPGPGPP-PPA----------
+sp|Q4KWH5|PLCH1_MOUSE      IKPNMTNDCQENHNPPKFLSPRKHLALDPATKGLQERLHGMKTNEKEHAE
+sp|Q4KWH8|PLCH1_HUMAN      TTSNATSNCQENPCPSKSLSPKQHLAPDPVVNPTQD-LHGVKIKEKGNPE
+P08487|PLCG1_BOVIN         SLR-----------------ERS---CDA---------------------
+                                                                             
+
+sp|Q8K2J0|PLCD3_MOUSE      --------------------------------------------------
+sp|Q8N3E9|PLCD3_HUMAN      --------------------------------------------------
+sp|A2AP18|PLCH2_MOUSE      --------------------------------------------------
+sp|O75038|PLCH2_HUMAN      --------------------------------------------------
+sp|Q4KWH5|PLCH1_MOUSE      GFLGEKSMLSGSVLSQSSLEVENLEGSRAKGRAATSFSLSDVSALCSDIP
+sp|Q4KWH8|PLCH1_HUMAN      DFVEGKSILSGSVLSHSNLEIKNLEGNRGKGRAATSFSLSDVSMLCSDIP
+P08487|PLCG1_BOVIN         --------------------------------------------------
+                                                                             
+
+sp|Q8K2J0|PLCD3_MOUSE      --------------------------------------------------
+sp|Q8N3E9|PLCD3_HUMAN      --------------------------------------------------
+sp|A2AP18|PLCH2_MOUSE      -------------------AAP----------------------------
+sp|O75038|PLCH2_HUMAN      -------------------AVP----------------------------
+sp|Q4KWH5|PLCH1_MOUSE      DLHSTAILQDTEISNLIDDVTLTNENQSGSSISALIGQFEESNHPANVTV
+sp|Q4KWH8|PLCH1_HUMAN      DLHSTAILQESVISHLIDNVTLTNENEPGSSISALIGQFDETNNQA-LTV
+P08487|PLCG1_BOVIN         --------------------------------------------------
+                                                                             
+
+sp|Q8K2J0|PLCD3_MOUSE      --------------------------------------------------
+sp|Q8N3E9|PLCD3_HUMAN      --------------------------------------------------
+sp|A2AP18|PLCH2_MOUSE      ------TGPSQEGSQCP-----V------------------GLGAKVTSS
+sp|O75038|PLCH2_HUMAN      ------TSSSQGRPPYP-----T------------------GPGANVASP
+sp|Q4KWH5|PLCH1_MOUSE      VSHLS-TSGASGSAPFQ-----TPFKHGLSQGNQKASFLCSSPELNKLSS
+sp|Q4KWH8|PLCH1_HUMAN      VSHLHNTSVMSGHCPLPSLGLKMPIKHGFCKGKSKSSFLCSSPELIALSS
+P08487|PLCG1_BOVIN         ------SGPLFHGRAR----------------------------------
+                                                                             
+
+sp|Q8K2J0|PLCD3_MOUSE      --------------------------------------------------
+sp|Q8N3E9|PLCD3_HUMAN      --------------------------------------------------
+sp|A2AP18|PLCH2_MOUSE      QQTSLGAFGTLQLRIGGGRENEEPPLRPHNGGISSGPREGTSGRQTDSKS
+sp|O75038|PLCH2_HUMAN      LEDT--------------EEPRDSRPRPCNGEGAGGAYERAPGSQTDGRS
+sp|Q4KWH5|PLCH1_MOUSE      VETT--------------KLANNA--VPCGVIGSP-ISTPKPGDDPSDKA
+sp|Q4KWH8|PLCH1_HUMAN      SETT--------------KHATNT--VY-ETTCTP-ISKTKPDDDLSSKA
+P08487|PLCG1_BOVIN         ---------------------EGSF-----------------------EA
+                                                                             
+
+sp|Q8K2J0|PLCD3_MOUSE      --------------------------------------------------
+sp|Q8N3E9|PLCD3_HUMAN      --------------------------------------------------
+sp|A2AP18|PLCH2_MOUSE      RSRVP-GHLPVVRRAKSEGQVL----------SELS-PTPAVYSDATGTD
+sp|O75038|PLCH2_HUMAN      QPRTL-GHLPVIRRVKSEGQVPTEPLGGWRPLAAPF-PAPAVYSDATGSD
+sp|Q4KWH5|PLCH1_MOUSE      KTRVIEGNLPGFPD-ASPGQFPKSPTHGED-HSQVM-NSPALSTELAIED
+sp|Q4KWH8|PLCH1_HUMAN      KTAALESNLPGSPN-TSRGWLPKSPTKGED-WETLKSCSPASSPDLTLED
+P08487|PLCG1_BOVIN         RY-----QQPFED-------------------------------------
+                                                                             
+
+sp|Q8K2J0|PLCD3_MOUSE      --------------------------------------------------
+sp|Q8N3E9|PLCD3_HUMAN      --------------------------------------------------
+sp|A2AP18|PLCH2_MOUSE      RLWQRLEPGSHRDSVSSSSSMSSNDTVIDLSL--PSLGLCRSRESIPG--
+sp|O75038|PLCH2_HUMAN      PLWQRLEPCGHRDSVSSSSSMSSSDTVIDLSL--PSLGLGRSRENLAG--
+sp|Q4KWH5|PLCH1_MOUSE      IIAD---PAL------SINSAESSLVEIDGESENLSLTTCDYREEAPSQL
+sp|Q4KWH8|PLCH1_HUMAN      VIAD---PTL------CFNSGESSLVEIDGESENLSLTTCEYRREGTSQL
+P08487|PLCG1_BOVIN         --------------------------------------------------
+                                                                             
+
+sp|Q8K2J0|PLCD3_MOUSE      --------------------------------------------------
+sp|Q8N3E9|PLCD3_HUMAN      --------------------------------------------------
+sp|A2AP18|PLCH2_MOUSE      -------------VSLGRLTSRPCLASAARPDLPP----------V----
+sp|O75038|PLCH2_HUMAN      -------------AHMGRLPPRPHSASAARPDLPP----------V----
+sp|Q4KWH5|PLCH1_MOUSE      VSPLKLQQSQEMVEHIQRGLRNGYCKETLLPS--EIFNNIPGVK------
+sp|Q4KWH8|PLCH1_HUMAN      ASPLKLKYNQGVVEHFQRGLRNGYCKETLRPSVPEIFNNIQDVK------
+P08487|PLCG1_BOVIN         --------------------------------------------------
+                                                                             
+
+sp|Q8K2J0|PLCD3_MOUSE      --------------------------------------------------
+sp|Q8N3E9|PLCD3_HUMAN      --------------------------------------------------
+sp|A2AP18|PLCH2_MOUSE      ----------------TKSKSNPNLRVAGGLP---TAPDELQPRPLAPRL
+sp|O75038|PLCH2_HUMAN      ----------------TKSKSNPNLRATGQRP---PIPDELQPRSLAPRM
+sp|Q4KWH5|PLCH1_MOUSE      ----------------NHSISHLTYQGAGFVYNHFSSSDAKTNQICEPQQ
+sp|Q4KWH8|PLCH1_HUMAN      ----------------TQSISYLAYQGAGFVHNHFSDSDAKMFQTCVPQQ
+P08487|PLCG1_BOVIN         --------------------------------------------------
+                                                                             
+
+sp|Q8K2J0|PLCD3_MOUSE      --------------------------------------------------
+sp|Q8N3E9|PLCD3_HUMAN      --------------------------------------------------
+sp|A2AP18|PLCH2_MOUSE      TG----HHPRP---------------------------------------
+sp|O75038|PLCH2_HUMAN      AG----LPFRP---------------------------------------
+sp|Q4KWH5|PLCH1_MOUSE      PRAPDMHAPTP---------------------------------------
+sp|Q4KWH8|PLCH1_HUMAN      SSAQDMHVPVP---------------------------------------
+P08487|PLCG1_BOVIN         --------------------------------------------------
+                                                                             
+
+sp|Q8K2J0|PLCD3_MOUSE      --------------------------------------------------
+sp|Q8N3E9|PLCD3_HUMAN      --------------------------------------------------
+sp|A2AP18|PLCH2_MOUSE      -------------------------------------PWHHLTLVGLRDC
+sp|O75038|PLCH2_HUMAN      -------------------------------------PWGCLSLVGVQDC
+sp|Q4KWH5|PLCH1_MOUSE      ------------------------------------TPSTHAPLAAL-KL
+sp|Q4KWH8|PLCH1_HUMAN      ------------------------------------KQLAHLPLPAL-KL
+P08487|PLCG1_BOVIN         --------------------------------------------------
+                                                                             
+
+sp|Q8K2J0|PLCD3_MOUSE      --------------------------------------------------
+sp|Q8N3E9|PLCD3_HUMAN      --------------------------------------------------
+sp|A2AP18|PLCH2_MOUSE      PVSAKSKSLGDLTADDFAPSFQGSTSSLSCGLGSLGVAHQ----------
+sp|O75038|PLCH2_HUMAN      PVAAKSKSLGDLTADDFAPSFEGGSRRLSHSLGLPGGTRR----------
+sp|Q4KWH5|PLCH1_MOUSE      PSPCKSKSLGDLTSEDIACNFESKYQCISRSFVTNGIRDKS---------
+sp|Q4KWH8|PLCH1_HUMAN      PSPCKSKSLGDLTSEDIACNFESKYQCISKSFVTTGIRDKKG--------
+P08487|PLCG1_BOVIN         ---------FRISQEHLADHFDGRDRRTPR--------------------
+                                                                             
+
+sp|Q8K2J0|PLCD3_MOUSE      --------------------------------------------------
+sp|Q8N3E9|PLCD3_HUMAN      --------------------------------------------------
+sp|A2AP18|PLCH2_MOUSE      ----------------VLEPGIRRDALTEQLRWLTGFQQAGDITSPTSLG
+sp|O75038|PLCH2_HUMAN      ----------------VSGPGVRRDTLTEQLRWLTVFQQAGDITSPTSLG
+sp|Q4KWH5|PLCH1_MOUSE      ----------VTMKTKSLEP---LDALTEQLRKLVSFDQEDSCQVLYS--
+sp|Q4KWH8|PLCH1_HUMAN      ----------VTVKTKSLEP---IDALTEQLRKLVSFDQEDNCQVLYS--
+P08487|PLCG1_BOVIN         --------------------------------------------------
+                                                                             
+
+sp|Q8K2J0|PLCD3_MOUSE      --------------------------------------------------
+sp|Q8N3E9|PLCD3_HUMAN      --------------------------------------------------
+sp|A2AP18|PLCH2_MOUSE      PAGDGSVGGPSFLRRSSSRSQSRVRAIASRARQAQERQ-QRLRGQDS---
+sp|O75038|PLCH2_HUMAN      PAGEGVAGGPGFVRRSSSRSHSRVRAIASRARQAQERQ-QRLQGLGR---
+sp|Q4KWH5|PLCH1_MOUSE      -KQDVNQCPRALVRKLSSRSQSRVRNIASRAKEKQEAGKQKAMAQSTRGG
+sp|Q4KWH8|PLCH1_HUMAN      -KQDANQLPRALVRKLSSRSQSRVRNIASRAKEKQEANKQKVPNPSNGAG
+P08487|PLCG1_BOVIN         --------------------RTRVN-------------------------
+                                                                             
+
+sp|Q8K2J0|PLCD3_MOUSE      --------------------------------------------------
+sp|Q8N3E9|PLCD3_HUMAN      --------------------------------------------------
+sp|A2AP18|PLCH2_MOUSE      ------------------------------RGPPEEERGTPEGACSVGHE
+sp|O75038|PLCH2_HUMAN      ------------------------------QGPPEEERGTPEGACSVGHE
+sp|Q4KWH5|PLCH1_MOUSE      VVLRSKPPAPALAVNRHSTGSYIASYLRNMKAGGLEGRGIPEGACTALRY
+sp|Q4KWH8|PLCH1_HUMAN      VVLRNKPSAPTPAVNRHSTGSYIAGYLKNTKGGGLEGRGIPEGACTALHY
+P08487|PLCG1_BOVIN         --------------------------------------------------
+                                                                             
+
+sp|Q8K2J0|PLCD3_MOUSE      --------QNS--------------------
+sp|Q8N3E9|PLCD3_HUMAN      --------QRS--------------------
+sp|A2AP18|PLCH2_MOUSE      GCVDVPMPAKGAPEQVCGA---ADGQLLLRL
+sp|O75038|PLCH2_HUMAN      GSVDAPAPSKGALGPASAA---AENLVLLRL
+sp|Q4KWH5|PLCH1_MOUSE      GYMDQFCSDNSVLQTEPSSEDKPEIYFLLRL
+sp|Q4KWH8|PLCH1_HUMAN      GHVDQFCSDNSVLQTEPSSDDKPEIYFLLRL
+P08487|PLCG1_BOVIN         --------GDNRL------------------
+                                     .                    
